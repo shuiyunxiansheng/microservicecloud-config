@@ -12,4 +12,4 @@ spring:
   profiles: test #测试环境
   application:
     name: microservicecloud-config-shuiyun-test
-#保存的时候需要保存为uat-8
+#保存的时候需要保存为UTF-8
